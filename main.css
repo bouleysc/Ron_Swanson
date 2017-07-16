@@ -1,0 +1,18 @@
+body {
+  width: 400px;
+  height: 400px;
+  background-color: #2f48cc;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
